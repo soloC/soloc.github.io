@@ -1,0 +1,13 @@
+baseurl = "https://soloc.github.io"
+languageCode = "en-us"
+title = "Just a memo"
+newContentEditor = "emacs"
+theme = "purehugo"
+pygmentsStyle = "native"
+draft = false
+Paginate = 10
+
+[params]
+  githubName = "soloC"
+  description = "My personal record"
+  hideShareOptions = true
